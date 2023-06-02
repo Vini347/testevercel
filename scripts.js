@@ -19,7 +19,7 @@ const endPoint3 = "https://megazord-dashboard.onrender.com/Card_Processos/"
 const endPoint4 = "https://megazord-dashboard.onrender.com/Dash_PlanosMitigantes/"
 const endPoint = "https://megazord-dashboard.onrender.com/Dash_IncidenteArea/"
 const PoliManu = "https://megazord-dashboard.onrender.com/Dash_Politicas_Manuais/"
-const normas = "https://megazord-dashboard.onrender.com/Dash_Normas/" 
+const normas = "https://megazord-dashboard.onrender.com/Dash_Normas/"
 const RadarCon = "https://megazord-dashboard.onrender.com/Dash_RadarConformidade/"
 const planos = "https://megazord-dashboard.onrender.com/Tabela_Tarefas/"
 
