@@ -70,3 +70,13 @@
     letter-spacing: -0.03em;
     color: #00030a;
 }
+
+.TextoCartaoRadar{
+    font-size: 110px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1px;
+    letter-spacing: -0.03em;
+    color: #000208;
+}
