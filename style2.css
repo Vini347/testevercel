@@ -53,7 +53,10 @@
 
     width: 97%;
     height: 97%;
-    display: inline-block; 
+    display: grid; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     overflow-y:auto;
     max-height:300px;
     margin-top: 1%;
