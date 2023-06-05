@@ -51,8 +51,8 @@
 
 .tables {
 
-    width: 97%;
-    height: 97%;
+    width: 97vw;
+    height: 97vh;
     display: inline-block; 
     justify-content: center;
     align-items: center;
